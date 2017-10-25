@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android test</string>
+
+    <string name="tab_txt_1">CAT</string>
+    <string name="tab_txt_2">DOG</string>
+</resources>
